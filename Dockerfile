@@ -1,7 +1,7 @@
 FROM node:18-alpine
 
 # Variables básicas
-ENV N8N_VERSION=latest
+ENV N8N_VERSION=1.98.1
 ENV N8N_BASIC_AUTH_ACTIVE=true
 ENV N8N_BASIC_AUTH_USER=admin
 ENV N8N_BASIC_AUTH_PASSWORD=changeme
